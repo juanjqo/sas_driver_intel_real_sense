@@ -3,5 +3,6 @@
 ### MacOS
 
 ```shell
-brew install cmake libusb pkg-config --cask apenngrace/vulkan/vulkan-sdk
+brew install cmake libusb pkg-config
+brew install --cask apenngrace/vulkan/vulkan-sdk
 ```
