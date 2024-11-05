@@ -1,4 +1,4 @@
-## Requirenments
+## Requirements
 
 ### MacOS
 
