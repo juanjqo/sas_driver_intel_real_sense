@@ -1,0 +1,6 @@
+[submodule "submodules/--recursive"]
+	path = submodules/--recursive
+	url = https://github.com/IntelRealSense/librealsense.git
+[submodule "submodules/librealsense"]
+	path = submodules/librealsense
+	url = https://github.com/IntelRealSense/librealsense.git
